@@ -12,12 +12,14 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Developer
+            I'm a Web 3 Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            With 5 years in software Development, Im specialized in Web3
+            development, creating decentralized applications using Ethereum and
+            Solidity. My passion includes crafting innovative web solutions with
+            React, Tailwind, Next JS, and GraphQL. Here's to another year
+            shaping the future of blockchain technology.
           </p>
 
           <div>
